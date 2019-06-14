@@ -1,0 +1,628 @@
+https://www.programiz.com/java-programming/examples
+https://www.sanfoundry.com/java-programming-examples/
+
+Java Program to Print an Integer (Entered by the User)
+Java Program to Add Two Integers
+Java Program to Multiply two Floating Point Numbers
+Java Program to Find ASCII Value of a character
+Java Program to Compute Quotient and Remainder
+Java Program to Swap Two Numbers
+Java Program to Check Whether a Number is Even or Odd
+Java Program to Check Whether an Alphabet is Vowel or Consonant
+Java Program to Find the Largest Among Three Numbers
+Java Program to Find all Roots of a Quadratic Equation
+Java Program to Check Leap Year
+Java Program to Check Whether a Number is Positive or Negative
+Java Program to Check Whether a Character is Alphabet or Not
+Java Program to Calculate the Sum of Natural Numbers
+Java Program to Find Factorial of a Number
+Java Program to Generate Multiplication Table
+Java Program to Display Fibonacci Series
+Java Program to Find GCD of two Numbers
+Java Program to Find LCM of two Numbers
+Java Program to Display Characters from A to Z using loop
+Java Program to Count Number of Digits in an Integer
+Java Program to Reverse a Number
+Java Program to Calculate the Power of a Number
+Java Program to Check Whether a Number is Palindrome or Not
+Java Program to Check Whether a Number is Prime or Not
+Java Program to Display Prime Numbers Between Two Intervals
+Java Program to Check Armstrong Number
+Java Program to Display Armstrong Number Between Two Intervals
+Java Program to Display Prime Numbers Between Intervals Using Function
+Java Program to Display Armstrong Numbers Between Intervals Using Function
+Java Program to Display Factors of a Number
+Java Program to Make a Simple Calculator Using switch...case
+Java Program to Check Whether a Number can be Expressed as Sum of Two Prime Numbers
+Java Program to Find the Sum of Natural Numbers using Recursion
+Java Program to Find Factorial of a Number Using Recursion
+Java Program to Find G.C.D Using Recursion
+Java Program to Convert Binary Number to Decimal and vice-versa
+Java Program to Convert Octal Number to Decimal and vice-versa
+Java Program to Convert Binary Number to Octal and vice-versa
+Java Program to Reverse a Sentence Using Recursion
+Java Program to calculate the power using recursion
+Java Program to Calculate Average Using Arrays
+Java Program to Find Largest Element of an Array
+Java Program to Calculate Standard Deviation
+Java Program to Add Two Matrix Using Multi-dimensional Arrays
+Java Program to Multiply to Matrix Using Multi-dimensional Arrays
+Java Program to Multiply two Matrices by Passing Matrix to a Function
+Java Program to Find Transpose of a Matrix
+Java Program to Find the Frequency of Character in a String
+Java Program to Count the Number of Vowels and Consonants in a Sentence
+Java Program to Sort Elements in Lexicographical Order (Dictionary Order)
+Java Program to Add Two Complex Numbers by Passing Class to a Function
+Java Program to Calculate Difference Between Two Time Periods
+Java Code To Create Pyramid and Pattern
+Java Program to Remove All Whitespaces from a String
+Java Program to Print an Array
+Java Program to Convert String to Date
+Java Program to Round a Number to n Decimal Places
+Java Program to Concatenate Two Arrays
+Java Program to Convert Character to String and Vice-Versa
+Java Program to Check if An Array Contains a Given Value
+Java Program to Check if a String is Empty or Null
+Java Program to Get Current Date/TIme
+Java Program to Convert Milliseconds to Minutes and Seconds
+Java Program to Add Two Dates
+Java Program to Join Two Lists
+Java Program to Convert List (ArrayList) to Array and Vice-Versa
+Java Program to Get Current Working Directory
+Java Program to Convert Map (HashMap) to List
+Java Program to Convert Array to Set (HashSet) and Vice-Versa
+Java Program to Convert Byte Array to Hexadecimal
+Java Program to Create String from Contents of a File
+Java Program to Append Text to an Existing File
+Java Program to Convert a Stack Trace to a String
+Java Program to Convert File to byte array and Vice-Versa
+Java Program to Convert InputStream to String
+Java Program to Convert OutputStream to String
+Java Program to Lookup enum by String value
+Java Program to Compare Strings
+Java Program to Sort a Map By Values
+Java Program to Sort ArrayList of Custom Objects By Property
+Java Program to Check if a String is Numeric
+
+
+https://codescracker.com/java/program/java-programming-examples.htm
+
+Java Programming Examples
+Java Programming Examples
+Java Print Hello World
+Java Get Input from User
+Java Print Integer
+Java Add two Numbers
+Java Check Even or Odd
+Java Check Prime or Not
+Java Check Alphabet or Not
+Java Check Vowel or Not
+Java Check Leap Year or Not
+Java Check Reverse equal Original
+Java Add Subtract Multiply & Divide
+Java Make Calculator
+Java Add Digits of Number
+Java Calculate Average & Percentage
+Java Calculate Arithmetic Mean
+Java Calculate Student Grade
+Java Print Table of Number
+Java Print Prime Numbers
+Java Add n Numbers
+Java Interchange two Numbers
+Java Reverse Numbers
+Java Swap two Numbers
+Java Count Positive Negative & Zero
+Java Find Largest of two Numbers
+Java Find Largest of three Numbers
+Java Find Factorial of Number
+Java Find HCF & LCM
+Java Calculate Area & Perimeter
+Java Calculate Area & Circumference
+Java Fahrenheit to Centigrade
+Java Centigrade to Fahrenheit
+Java Print ASCII Values
+Java Print Fibonacci Series
+Java Check Palindrome or Not
+Java Check Armstrong or Not
+Java Generate Armstrong Numbers
+Java Find ncR nPr
+Java Convert Decimal to Binary
+Java Convert Decimal to Octal
+Java Convert Decimal to Hexadecimal
+Java Convert Binary to Decimal
+Java Convert Binary to Octal
+Java Convert Binary to Hexadecimal
+Java Convert Octal to Decimal
+Java Convert Octal to Binary
+Java Convert Octal to Hexadecimal
+Java Convert Hexadecimal to Decimal
+Java Convert Hexadecimal to Binary
+Java Convert Hexadecimal to Octal
+Java Pattern Programs
+Java Print Diamond Pattern
+Java Print Floyd Triangle
+Java Print Pascal Triangle
+Java One Dimensional Array Program
+Java Linear Search
+Java Binary Search
+Java Add two Numbers using Pointers
+Java Find Largest Element in Array
+Java Find Smallest Element in Array
+Java Reverse Array
+Java Insert Element in Array
+Java Delete Element from Array
+Java Merge two Array
+Java Bubble Sort
+Java Selection Sort
+Java Insertion Sort
+Java Two Dimensional Array Program
+Java Add two Matrices
+Java Subtract two Matrices
+Java Transpose Matrix
+Java Multiply two Matrices
+Java Three Dimension Array Program
+Java Print String
+Java Find Length of String
+Java Compare two String
+Java Copy String
+Java Concatenate String
+Java Reverse String
+Java Delete Vowels from String
+Java Delete Words from Sentence
+Java Count Character in String
+Java Count Word in Sentence
+Java Remove Spaces from String
+Java Sort a String
+Java Uppercase to Lowercase
+Java Lowercase to Uppercase
+Java Swap two Strings
+Java Check Anagram or Not
+Java Generate Random Numbers
+Java Read File
+Java Write to File
+Java Read & Display File Content
+Java Copy File
+Java Merge two File
+Java List files in Directory
+Java Delete File
+Java Print Time & Date
+Java Get IP Address
+Java Shutdown Computer
+
+
+Simple Java Programs
+This section covers Simple Java Programs. Every example program includes the description of the program, Java code as well as output of the program. All examples are compiled and tested on a Windows system. The example programs choosen here are Simple & Basic Java programs. So, they are suitable for dummies & beginners to Java.
+Here is the list of various categories of Simple Java programs.
+
+1. Java Examples on Bitwise Operators
+Bitwise operators is used to control the values of primitive data-types such as long, integer, short and byte. Bitwise xor operator gives results 1 for different value of bit and 0 for same value of bit, when a number is written in the binary form. Bits are smallest unit of data, bit has a single binary value 0 or 1. The following section contains programs on counting, multiplying and swapping the numbers using bitwise operators.
+
+Java Program to Multiply given Number by 4 Using Bitwise Operators 
+Java Program to Check if a given Bit Position is Set to One or not
+Java Program to Count the Number of Bits Set to One
+Java Program to Illustrate the Use of Various Bitwise Operators
+Java Program to Swap the Contents of Two Numbers Using Bitwise XOR Operation
+2. Java Examples on Recursion
+Recursion is the process of defining something in terms of itself. Recursion is the attribute that allows a method to call itself. A method that calls itself is said to be recursive. Recursive functions are very helpful in solving mathematical problems. The following section displays a list of Java Programs which illustrate the concept of recursion. These programs include finding the sum of the digits of a number, finding the reverse of a number, finding the product and sum of 2 numbers. Programs which perform conversion of Binary code of a number into its equivalent Gray code with and without recursion. This section also contains program to print the binary equivalent of an integer.
+
+Java Program to Convert Binary Code of a Number into its Equivalent Gray’s Code Without Using Recursion
+Java Program to Convert Binary Code of a Number into its Equivalent Gray’s Code Using Recursion
+Java Program to Find Sum of Digits of a Number using Recursion
+Java Program to Find Sum of N Numbers Using Recursion
+Java Program to Find Reverse of a Number Using Recursion
+Java Program to Print Binary Equivalent of an Integer using Recursion
+Java Program to Find Product of 2 Numbers Using Recursion
+3. Java Examples on Integers
+Int is a primitive type. Int stores the actual binary value for the integer. Byte, short, int, and long are the integer types they are signed, positive and negative values. Java does not support unsigned and positive-only integers. The following section provides a list of Java programs which deals with an aspect of Basic Mathematics “Integers”. The given set of Programs depict if the given Integer is odd or even, positive or negative, finds the sum of odd and even integers, swaps the values of integers and computes the sum of digits of the given integer, reverse the given number, finds the biggest 3 integers and extract the digits from the given integers.
+
+Java Program to Check if a Given Integer is Positive or Negative
+Java Program to Check if a Given Integer is Odd or Even
+Java Program to Find the Biggest of 3 Numbers 
+Java Program to Calculate the Sum of Odd & Even Numbers 
+Java Program to Read Two Integers M and N & Swap their Values 
+Java Program to Reverse a Given Number 
+Java Program to Accept two Integers and Check if they are Equal 
+Java Program to Compute the Sum of Digits in a given Integer 
+Java Program to Extract Digits from A Given Integer
+Java Program to Increment by 1 All the Digits of a given Integer
+4. Java Examples on Number Conversion
+The following section gives a list of Java programs on conversions like converting integer values into binary, days into years, long values into bytes, integer values into characters, english text to morse code and vice versa.
+
+Java Program to Convert Integer Values into Binary
+Java Program to Convert a Given Number of Days in Terms of Years, Weeks & Days 
+Java Program to Convert Integer Values into Byte, Character, Float
+Java Program to Convert Long Values into Byte 
+Java Program to Convert English Text to Morse Code and Vice Versa
+5. Java Examples to illustrate Functions of a Computer
+The following section contains programs on usage of computer. Programs used to display the ip address of the system, shutdown the system in linux environment and checks whether authentication is done or not.
+
+Java Program to Illustrate how User Authentication is Done 
+Java Program to Display the IP Address of the System
+Java Program to Shutdown or Turn Off the Computer in Linux
+6. Java Examples on Data Types
+Java programming language is statically-typed, which means that all variables must be declared first before they can be used. Most commonly used data types in Java are int, char, float, double, String and boolean. Representing an integral number in binary format, that binary number has to be prefixed with 0b or 0B. The following section contains programs to check given character is vowel or consonant, performs binary addition of strings. The section also contains programs on character literals, binary literals and numeric literals.
+
+Java Program to Check if a Given Character is Vowel or Consonant
+Java Program to Check if given Alphabets are Uppercase or Lowercase or Digits 
+Java Program to Illustrate Use of Binary Literals 
+Java Program to Use Underscores in Numeric Literal
+Java Program to Illustrate the Usage of Decimal Integer, Octal Integer, HexaDecimal, Floating, Character Literals
+Java Program to Store Escape Sequence and Unicode Characters Using Character Literals
+Java Program to Perform Binary Addition of Strings
+7. Java Examples on Operators
+Operator is a special type of symbol that is used to perform operations. Boolean operator operates on boolean values to create a new boolean value. Ternary operator is the simple one liner statement of an if-then-else statement. Relational operator compares two arithmetic expressions or two character expressions and evaluates to a single logical value. The following section contains programs on various operators like boolean operator, ternary operator, arithmetic operators, relational operators, pre and post increment and decrement operators.
+
+Java Program to Illustrate Use of Various Boolean Operators
+Java Program to Find Largest Between Three Numbers Using Ternary Operator
+Java Program to Illustrate the Use of Arithmetic Operators
+Java Program to Illustrate Use of Pre and Post Increment and Decrement Operators
+Java Program to Illustrate Use of Relational Operators
+Java Program to Read a Grade & Display the Equivalent Description
+8. Java Examples on Special Numbers
+The following section provides a list of Java numbers used to display these special numbers and also perform various operations on these numbers. These operations include reversing a number, checking if the number is a palindrome, addition and multiplication of binary numbers, printing multiplication table for a given number, finding sum of the digits using do-while loop.
+
+Java Program to Reverse a Number & Check if it is a Palindrome 
+Java Program to Display Numbers from 1 to 10 Using For Loop
+Java Program to Check Whether Given Number is Divisible by 5 
+Java Program to Print Multiplication Table for any Number
+Java Program to Take a Number and Return List of its Digits
+Java Program to Reverse a Number and find the Sum of its Digits Using do-while Loop
+Java Program to Find Two Elements such that their Sum is Closest to Zero
+9. Java Examples on day-to-day Activities
+Java programming skills can be applied to various activities in our day-to-day life. The following section is a list of Java programs to display ATM transactions, finding given year is a leap year or not and extracting last two digits in a given year.
+
+Java Program to Extract Last two Digits of a given Year
+Java Program to Find if a Given Year is a Leap Year
+Java Program to Display the ATM Transaction
+10. Java Examples on Methods, Objects and Switch Statements
+Method is a collection of statements that perform some specific task. Method Overloading is a feature that allows a class to have more than one method having the same name, if their argument lists are different. Enum is a data type which contains fixed set of constants. Final keyword in a method declaration is to indicate that the method cannot be overridden by subclasses. Switch statement allows a variable to be tested for equality against a list of values. Each value is called a case. The following section contains programs on passing argument using method overloading, nesting of methods, enum concept, use of final keyword, switch statements using strings, passing objects and type casting.
+
+
+Java Program to Find Arithmetic Sum of 2 or 3 or 4 Variables by Passing Argument Using Method Overloading
+Java Program to Show the Nesting of Methods
+Java Program to Illustrate Use of Final Keyword
+Java Program to Perform String Concatenation 
+Java Program to Print any Statement without Using the Main Method
+Java Program to Find Season Using Switch Statement
+Java Program to Return a Value from a Method 
+Java Program to Use Strings in Switch Statements
+Java Program to Implement the Concept of Passing the Object and Return Object
+Java Program to Find Out the Number of Objects Created of a Class
+Java Program to Calculate Sum of Two Byte Values Using Type Casting 
+Java Program to Define Ordinal() Method Using Enum Concept
+Java Program to Access All the Constant Defined in the Enum
+11. Java Examples on Special Programs
+The following section contains programs on printing a semicolon without using a semicolon, taking the height of a person as the input and categorizing it as Taller, Dwarf and Average, dot representation of a graph and automatic generation of essays.
+
+Java Program to Print a Semicolon without Using a Semicolon Anywhere in the Code
+Java Program to Print any Statement without Using Semicolon
+Java Program to Accept the Height of a Person & Categorize as Taller, Dwarf & Average 
+Java Program to Generate a DOT Representation of a Graph
+Java Program to Automatically Generate Essays for You
+
+
+Arrays
+1. Java Examples on Finding the Largest and Smallest Numbers in an Array
+An array is a container object that holds a fixed number of values of a single type. The Java programs in this section to find the largest numbers, second largest number and smallest numbers in an given array.
+
+Java Program to Find the Largest Two Numbers in a Given Array
+Java Program to Find the Second Largest & Smallest Elements in an Array
+Java Program to Find the Largest Number in an Array
+2. Java Examples on Inserting and Deleting Elements to and from an Array
+The Java programs in this section deals with insertion and deletion of elements in an array. It has programs to insert a element in a specified position in a given array, delete the specified integer from an array, to insert even and odd elements of an array into two separate arrays and cyclically permute the elements of the given array.
+
+Java Program to Put Even & Odd Elements of an Array in 2 Separate Arrays
+Java Program to Insert an Element in a Specified Position in a Given Array
+Java Program to Delete the Specified Integer from an Array
+Java Program to Cyclically Permute the Elements of an Array
+3. Java Examples on Sort and Merge Operations on an Array
+Merge sort is a sorting technique based on divide and conquer technique. This section contains Java programs on sorting like sorting of an array in ascending and descending order, sorting the names in alphabetical order and splitting an array from the specified position.
+
+Java Program to Sort the Array in an Ascending Order
+Java Program to Sort the Array in Descending Order
+Java Program to Sort Names in an Alphabetical Order
+Java Program to Split an Array from Specified Position
+4. Java Examples on Operations on Individual Elements of an Array
+The Java programs in this section deals with the individual elements of an array. It has programs to find the number of elements in the given array, checking array bounds while inserting elements into an array, finding the odd elements of an array, finding the missing elements and non-repeating elements in an array, segregating 0s and 1s on the left and the right side of an array and finding the 2 elements of an array such that the difference between them is the largest.
+
+Java Program to Calculate Sum & Average of an Array
+Java Program to Increment Every Element of the Array by One & Print Incremented Array
+Java Program to Find the Number of Non-Repeated Elements in an Array
+Java Program to Identify Missing Numbers in a Given Array
+Java Program to Find 2 Elements in the Array such that Difference between them is Largest
+Java Program to Count the Number of Occurrence of an Element in an Array
+Java Program to Accept Array Elements and Calculate Sum
+Java Program to Segregate 0s on Left Side & 1s on Right Side of the Array
+Java Program to Find the Number of Elements in an Array
+Java Program to Check Array Bounds while Inputing Elements into the Array
+5. Java Examples on Mathematical Functions and their Applications on Arrays
+The Java programs in this section deals with various aspects of mathematical functions and their applications on Arrays. It has programs on mathematical and statistical functions like Floor and Ceiling functions, Union and Intersection operations, testing if the given integer X appears more than N/2 times in a sorted array of N integers, creating jagged array using 1d arrays.
+
+Java Program to Find Union & Intersection of 2 Arrays
+Java Program to Find if a given Integer X Appears more than N/2 Times in a Sorted Array of N Integers
+Java Program to Accept the Marks of a Student into a 1D Array and find Total Marks and Percentage
+Java Program to Create a Jagged Array that Contains Two 1D Arrays
+Java Program to Find Ceiling & Floor of X given a Sorted Array & a Value X
+6. Java Examples on Printing the Elements of an Array
+The Java programs in this section deals with programs to generate Pascal Triangle, printing all the repeated numbers with frequency in an array, printing the kth element in an array, printing the number of odd and even numbers in an array.
+
+Java Program to Print the Odd & Even Numbers in an Array
+Java Program to Print the kth Element in the Array
+Java Program to Generate Pascal Triangle 1 D Array
+Java Program to Print All the Repeated Numbers with Frequency in an Array
+7. Java Examples on Search Operation on an Array
+This section contains Java programs to find the biggest number in an an array using recursion and searching key elements in an array.
+
+
+Java Program to Search Key Elements in an Array
+Java Program to Find the Biggest Number in an Array of Numbers Using Recursion
+8. Java Examples on Various Matrix Operations
+Matrix is a rectangular arrangement of rows and columns. Triangular matrix is a kind of square matrix. A square matrix is called lower triangular if all the entries above the main diagonal are zero. A square matrix is called upper triangular if all the entries below the main diagonal are zero. Matrix that is both upper and lower triangular is called a diagonal matrix. Sparse matrix is a matrix in which most of the elements have a value of zero. This section contains Java programs to display transpose matrix, upper and lower triangular matrix, programs to find trace of a given matrix, add two m*n matrix from user input, performs matrix multiplication and checks whether given matrix is a sparse matrix or not.
+
+Java Program to Display Transpose Matrix
+Java Program to Find the Trace & Normal of a given Matrix
+Java Program to Display Upper Triangular Matrix
+Java Program to Display Lower Triangular Matrix
+Java Program to Interchange any two Rows & Columns in the given Matrix
+Java Program to Find the Frequency of Odd & Even Numbers in the given Matrix
+Java Program to Accept a Matrix of Order MxN & Interchange the Diagonals
+Java Program to Determine if a given Matrix is a Sparse Matrix 
+Java Program to Add Two MXN Matrix from User Input
+Java Program to Perform Matrix Multiplication
+
+
+
+
+1. Java Examples on Mathematical Calculations
+This section contains Java programs to find simple interest and roots of quadratic equation.
+
+Java Program to Find the Simple Interest
+Java Program to Find the Roots of Quadratic Equation
+2. Java Examples on Special Numbers
+Armstrong number is an integer such that the sum of the cubes of its digits is equal to the number itself. The Java programs in this section provides a list of Java numbers used to display these special numbers and also perform various operations on these numbers. These operations include printing armstrong number from 1 to 1000, checks whether given number is perfect number or not, finding sum of natural numbers using while loop, print the next 20 leap years, checks whether given number is armstrong number or not and prints the first twenty perfect squares.
+
+Java Program to Print Armstrong Number from 1 to 1000
+Java Program to Check if a Given Number is Perfect Number
+Java Program to Check If a Given Number is ArmStrong Number
+Java Program to Check if a Given Number is Prime Number 
+Java Program to Find Sum of Natural Numbers Using While Loop
+Java Program to Calculate the Sum, Multiplication, Division and Subtraction of Two Numbers
+Java Program to Print the Next 20 Leap Years
+Java Program to Print the First Twenty Perfect Squares
+Java Program to Input a String with at least One Number, Print the Square of all the Numbers in a String
+3. Java Examples on Fibonacci and Complex Numbers
+Fibonacci sequence is a series where a number is found by adding up the two numbers before it. This section contains Java programs to generate fibonacci numbers, performs addition of two complex numbers and computes the list of first 100 fibonacci numbers.
+
+Java Program to Generate Fibonacci Numbers
+Java Program to Add two Complex Numbers
+Java Program to Compute List of First 100 Fibonacci Numbers
+4. Java Examples on Finding the Area, Volume and Surface Area of Geometrical Figures
+Trapezium is a quadrilateral that has one pair of parallel sides. Parallelogram is a quadrilateral that has two pairs of parallel sides. Rhombus is a flat shape with 4 equal straight sides. cuboid is a box-shaped solid object which has six flat sides. Sphere is a round geometrical object in three-dimensional space. Cone is a rotated triangle. The Java programs in this section calculates the area of a Trapezium, rhombus and parallelogram, volume and surface area of cone, sphere and cuboids, calculates the displayed area of a circle, finds the perimeter of triangle. circle and rectangle. This section contains Java programs on finding the volume of union, area of circle using radius and area of square, rectangle and circle using method overloading.
+
+Java Program to Find the Area of Trapezium
+Java Program to Find the Area of Rhombus
+Java Program to Find the Area of Parallelogram
+Java Program to Find the Volume and Surface Area of Cuboids
+Java Program to Find the Surface Area and Volume of a Cone
+Java Program to Find the Volume and Surface Area of Sphere
+Java Program to Find the Perimeter of a Circle, Rectangle and Triangle
+Java Program to Calculate and Display Area of a Circle
+Java Program to Create a Simple Class to Find out the Area and Perimeter of Rectangle
+Java Program to Find the Area of a Triangle Given Three Sides
+Java Program to Find the Area of a Circle Given the Radius
+Java Program to Find Area of Square, Rectangle and Circle Using Method Overloading
+Java Program to Compute the Volume of the Union
+5. Java Examples on Recursion
+Recursion occurs when a thing is defined in terms of itself or of its type. Recursion is the attribute that allows a method to call itself. A method that calls itself is said to be recursive. The Java programs in this section deals with recursion. These programs include finding factorial value with or without using recursion, convert a number decimal system to binary system using recursion, finds natural numbers using recursion and also finds a given number is prime or not by using recursion.
+
+Java Program to Find Factorial Value With Using Recursion
+Java Program to Find if a Number is Prime or Not Using Recursion
+Java Program to Print First N Natural Numbers Using Recursion
+Java Program to Find Factorial Value Without Using Recursion 
+Java Program to Convert a Number Decimal System to Binary System Using Recursion
+6. Java Examples on Number Conversion
+This section contains Java programs on number conversions like converting binary to octal, binary to hexadecimal, octal to binary, hexadecimal to binary, octal to decimal, binary number to equivalent decimal, hex to decimal, decimal to binary, decimal to octal, decimal to hexadecimal, fahrenheit to celsius. This section also contains programs on numbers to roman numbers and roman numbers to decimal numbers.
+
+Java Program to Convert Binary to Octal
+Java Program to Convert Binary to Hexadecimal
+Java Program to Convert Octal to Binary
+Java Program to Convert Hexadecimal to Binary
+Java Program to Convert Octal to Decimal 
+Java Program to Convert the Given Binary Number into its Equivalent Decimal
+Java Program to Convert a Decimal Number to Binary & Count the Number of 1s 
+Java Program to Convert Hex to Decimal
+Java Program to Convert Decimal to Binary, Octal and Hexadecimal Number
+Java Program to Convert Fahrenheit into Celsius
+Java Program to Convert the Given Binary Number into Decimal
+Java Program to Convert Numbers to Roman Numerals
+Java Program to Convert Roman to Decimal Number
+7. Java Examples on Implementation of Floyd and Pascal’s Triangle
+Floyd’s triangle algorithm is a right-angled triangular array of natural numbers. It is defined by filling the rows of the triangle with consecutive numbers. Pascal triangle is a triangular array of the binomial coefficients. pow() function takes two arguments and returns the power raised to the base number. This section contains Java programs on pow() function, displaying floyd’s and pascal triangles.
+
+
+Java Program to Display Floyd’s Triangle
+Java Program to Display Pascal Triangle
+Java Program to Perform Pow () Function
+8. Java Examples on Summation of a Series and GCD
+Euclid’s algorithm is an efficient way to find GCD of two numbers. GCD of two integers is the largest integer that can exactly divide both numbers. This section contains Java programs to find the gcd and lcm of two numbers using euclids algorithm, finds prime number within a range of n1 and n2, finds sum of series, computes gcd and generate harmonic series.
+
+Java Program to Compute GCD 
+Java Program to Generate Harmonic Series
+Java Program to Add the nth Square Series 
+Java Program to Find Sum of the Series 1/1! + 2/2! + 3/3! + ……1/N!
+Java Program to Find GCD and LCM of Two Numbers Using Euclid’s Algorithm
+Java Program to Find Prime Numbers Within a Range of n1 and n2
+Java Program to Compute GCD Using Repeat Sub
+9. Java Examples to display Special Patterns
+This section contains Java programs on special patterns like displaying diamond pattern by using while and for loops, displays star in a triangular form, prints the multiplication table in triangle form and draws the shapes like oval, lines and rectangle using graphics method.
+
+Java Program to Print Diamond Pattern
+Java Program to Display Stars in a Triangular Form 
+Java Program to Print the Multiplication Table in a Triangle Form
+Java Program to Draw the Line, Rectangle, Oval, Text Using the Graphics Method
+
+
+
+
+Here is the listing of Java programming examples on Classes.
+
+1. Java Examples on Classes
+A class can be defined as a template that describes the behavior that the object of its type support. Class is declared by use of the class keyword. The data or variables, defined within a class are called instance variables. Java inner class or nested class is a class which is declared inside the class or interface. Member Inner class created within class and outside method. A class created within method is called Local Inner Class. Static Inner class creates within a class. A class created for implementing interface or extending class. Its name is decided by the java compiler is called Anonymous Inner Class. Abstract class is used to provide abstraction in java. This section contains Java programs on classes like abstract class, instance inner class, static inner class and anonymous inner class. This section also contains programs to check whether given class is inner class, local class or anonymous class.
+
+Java Program to Illustrates Use of Abstract Class and Method
+Java Program to Illustrates Use of Instance Inner Class
+Java Program to Illustrates Use of Static Inner Class
+Java Program to Illustrates Use of Referencing the Object from Inner Class
+Java Program to Illustrates Use of Anonymous Inner Class
+Java Program to Illustrate Use of All Features of Abstract Class
+Java Program to Check if a Given Class is Inner Class
+Java Program to Check if a Given Class is Local Inner Class
+Java Program to Check if a Given Class is Anonymous Class
+Java Program to Design a Class Using Abstract Methods and Classes
+2. Java Examples on Methods
+Method is a collection of statements that are grouped together to perform an operation. Parameter is a value that you can pass to a method. getChar() method is used to get characters from given given string. split() is used to divide the given string into array of strings depending upon the positions of blank spaces. This section contains Java programs on usage of methods, illustrate a method without parameters and with or without return types. It also explains the uses of methods in class, getchar() and split() methods.
+
+Java Program to Illustrate Use of Methods in a Class
+Java Program to Illustrate a Method without Parameters and without Return Type
+Java Program to Illustrate a Method without Parameters and with Return Type
+Java Program to Illustrate a Method with 2 Parameters and without Return Type
+Java Program to Illustrate Use of getChar() and split() Method
+Java Program to Understand the Use of Methods in a Class
+3. Java Examples on Strings
+String is a sequence of characters. In Java, strings are objects. String class is used to manipulate character strings that cannot be changed. String class with Methods are used to concat, compare, touppercase, tolowercase, trim, length, equals, split etc. Important methods of string class are UpperCase() and Lowercase() methods. StringBuffer class is used to represent characters that can be modified. This section contains Java programs on important methods of string class like upper and lower case, searching a string using equalsIgnoreCase() methods, usage of StringBuffer class methods and checks whether given string is palindrome or not.
+
+Java Program to Check whether a String is a Palindrome
+Java Program to Create Strings and How to Use Some Important Methods of String Class
+Java Program to Search for a Given String in an Array of Strings Using equalsIgnoreCase() Methods
+Java Program to Illustrate Use of StringBuffer Class Methods
+Java Program to Find the Areas of Square and Rectangle by Deriving them from Shape
+4. Java Examples on Constructor
+Constructor initializes an object immediately upon creation. Calling a constructor from the another constructor of same class is known as Constructor chaining. Constructor with arguments is known as Parameterized constructor. This section contains Java programs on use of constructor, creating a objects and assigning values by using constructors, usuage of chaining constructor, initialization of classes and strings using constructor, parameterized constructor, use of constructor overload and method overload.
+
+Java Program to Illustrate Use of Constructor
+Java Program to Illustrate Use of Chaining Constructor
+Java Program to Create the Object for Class and to Assign Value in the Object Using Constructor
+Java Program to Allocate and Initialize Super Class Members Using Constructor
+Java Program Which has 2 Classes Which Initializes a String in Its Constructor 
+Java Program to Illustrates Use of Chaining Constructor
+Java Program to Initialize the Instance Variables of Employee Class, Using Parameterized Constructor
+Java Program to Illustrate Use of Constructor Overload and Method Overload
+Java Program to Show How to Class will be Loaded Using Constructor
+5. Java Examples on Super Class
+Superclass is a class which gives a method or methods to a Java subclass. A Java class may be either a subclass, superclass or both. Super keyword is used to refer the objects of immediate parent class. Subclass inherits state and behavior in the form of variables and methods from its superclass. This section contains Java programs on accessing the super class method and instance variable with or without using super keywords. It also contains programs on super class constructors.
+
+Java Program to Access the Super Class Method and Instance Variable Without Using Super Keyword from Sub Class
+Java Program to Access the Super Class Method and Instance Variable Using Super Keyword from Sub Class
+Java Program to Prove that the Default Constructor of the Super Class is Available to Sub Class by Default
+Java Program to Understand that the Parameterized Constructor of the Super Class can be called from Sub Class Using super()
+6. Java Examples on Variables
+Variables are the identifier of the memory location, which is used to save data temporarily. it is necessary to declare the variable before being used. A variable which is declared inside the class but outside the method, is called instance variable. It is not declared as static. This section contains Java programs on accessing the static or non static variable, usage of instance and static variables in text class, initializing the instance variables in classes.
+
+Java Program to Test whether a Static Method can Access the Static or Non-Static Variable
+Java Program to Demonstrate Usage of an Instance Variable x in the Test Class
+Java Program to Demonstrate Usage of a Static Variable x in the Test Class
+Java Program to Accepts a Group of Numbers and Returns Bigger Number Using Method with Variable Arguments
+Java Program to Initialize the Student Class Instance Variables in Demo Class
+Java Program to Initialize the Instance Variables Directly Within the Person Class
+7. Java Examples on Static Method
+Static method call is the method name followed by its arguments, separated by commas and enclosed in parentheses. Variable which is declared inside the class but outside the method, is called instance variable. It is not declared as static. Variable that is declared as static is called static variable. This section contains Java programs on static method which accepts data and returns the result, checks whether static block or static method will executes first. It also checks whether a static method can access the instance or static variables.
+
+Java Program to Check Whether Which One is Executed First, Static Block or the Static Method
+Java Program for a Static Method that Accepts Data and Returns the Result
+Java Program to Check Whether a Static Method Can Access the Instance Variable
+Java Program to Check Whether a Static Method Can Access the Static Variable
+8. Java Examples on Methods and Reference in Classes
+Hash code is an unique id number allocated to an object by JVM. Calling a method by passing a value is called as call by value. This section contains Java programs to call cube() method, finding the arguments provided at runtime, use of hashcode() method, creation of reference classes, displaying gregoriancalendar using mutator, usage of call by value and call by reference.
+
+Java Program to Illustrate the Use of HashCode() Method
+Java Program to Make Shape as an Interface and Implement it Using Circle and Rectangle Class
+Java Program to Split into Pieces Wherever a Space is Found 
+Java Program to Illustrate Call By Value and Call By Reference
+Java Program to Create the Reference of Class Two in Class One Using this Reference
+Java Program to call cube() Method in Class One
+Java Program to Display GregorianCalendar Using Mutator and Accessor Methods
+Java Program to Find the Number of Arguments Provided at Runtime
+9. Java Examples on Real time Applications
+This section contains Java programs on real time applications like displaying the inventory items in store, designing class account to display all bank functions, creation of outer class bank account and inner class interest. accepting persons name and age and display whether person is young or not.
+
+Java Program to Create the Outer Class BankAcct and Inner Class Interest
+Java Program to Display the Inventory of Items in a Store
+Java Program to Design a Class Account that Show all Function of Bank
+Java Program to Create the Outer Class Bank Account and the Inner Class Interest in it
+Java Program to Create Person Class and an Object Raju to Person Class. Let Us Display the Hash Code Number of the Object
+Java Program to Accept a Person’s Name and Age Through Command Line Arguments and Display If He is Young
+10. Java Examples on Objects and Static Blocks
+An entity that has state and behavior is known as an object. Static block is used for initializing the static variables. Static block gets executed when the class is loaded in the memory. The Java programs in this section illustrates the values inside an object, use of instance and static blocks, program to interchange the objects by using swap() method.
+
+
+Java Program to Interchange Two Employee Objects by Passing them to Swap() Method
+Java Program to Interchange the Values Inside an Object
+Java Program to Illustrates Use of Instance and Static Blocks
+Java Program to Show Work Class Loading and Static Blocks Execution Using Static Modifier
+Java Program to Illustrate Class Loading and Static Blocks in Inheritance Concept
+11. Java Examples on Package Creation
+Package is a group of similar types of classes, interfaces and sub-packages. There are two types of packages user defined and built-in packages. This section contains Java programs on creation of packages and accessing the members of external class.
+
+Java Program to Create a Package that Access the Member of External Class as well as Same Package
+Java Program that Import the User Define Package and Access the Member Variable of Classes that Contained by Package
+Java Program to Create a Package that Access the Member of External Class as well as Same Package
+
+
+This section covers the list of topics for Java programming examples. These Java examples cover a wide range of programming areas in Computer Science. Every example program includes the description of the program, Java code as well as output of the program. All examples are compiled and tested on a Windows system. These examples can be as simple and basic as “Hello World” program to extremely tough and advanced Java programs. So, they are suitable for any user (dummies, beginners or advanced users).
+Here is the listing of Java programming Topics.
+
+1. Simple Java Programs
+The following section gives a collection of Simple Java Programs which are categorized into various Categories like Programs on Bitwise Operators, Programs on Recursion, Programs on Integers, Programs on Number Conversion, Programs on illustrate Functions of a Computer, Programs on Data Types, Programs on Operators, Programs on Special Numbers, Programs on day-to-day Activities, Programs on Objects and Switch Statements, Programs on Methods and Special Programs.The link below contains Programs for all the categories mentioned above.
+
+https://www.sanfoundry.com/simple-java-programs/
+ 
+
+2. Java Programming Examples on Arrays
+In this section, we have various Programs on Arrays. These include Programs on Finding the Largest and Smallest Numbers in an Array, Programs on Inserting and Deleting Elements to and from an Array, Programs on Array Sorting, Programs on Printing the Elements of an Array, Programs on Search Operation, Programs on Triangular Matrix, Programs on Transpose Matrix, Programs on Sparse Matrix and Programs on Matrix Multiplication. The link below illustrates all the Programs that are Categorized as above.
+
+https://www.sanfoundry.com/java-programming-examples-arrays/
+ 
+
+3. Java Programming Examples on Mathematical Functions
+The sections deals with programs on Mathematical Operations. These include Programs on Special Numbers, Programs on Fibonacci, Programs on Complex Numbers, Programs on Recursion, Programs on Number Conversion, Programs on Simple Interest, Programs on Floyd’s Triangle, Programs on Pascal Triangle, Programs on GCD, Programs on displaying Special Patterns. The link below guides us through the above mentioned categories.
+
+https://www.sanfoundry.com/java-programming-examples-mathematical-functions/
+ 
+
+4. Java Programming Examples on Classes
+The following section gives a collection of Java Programs which are categorized into various Categories like Programs on Classes, Programs on Methods, Programs on Strings, Programs on Constructor, Programs on Super Class, Programs on Variables, Programs on Static Method, Programs on Methods and Reference in Classes, Programs on Real time Applications, Programs on Package Creation, Programs on Objects and Programs on Static Blocks. The following link will guide us through all the Programs mentioned above.
+
+https://www.sanfoundry.com/java-programming-examples-classes/
+ 
+
+5. Java Programming Examples on Collections
+In this section, we have various Programs on Collections. These include Programs on Adding and Removing Data from Collections, Programs on HashMap, Programs on HashTable, Programs on Collection Interface, Programs on Frames, Programs on List, Programs on Arrays, Programs on Enum Class, Programs on Object, Programs on Index, Programs on Colors using Frames. The link below displays all the programs on Collections.
+
+6. Java Programming Examples on Event Handling
+This section deals with categories of Event Handling. They include Programs on Delegation Event Model, Programs on Handling Check Boxes, Programs on Handling a TextField, Programs on Menu Bars, Programs on Menus, Programs on Applet Class, Programs on Graphical User Interface, Programs on Frame, Programs on Fonts Working, Programs on Graphics, Programs on Handling Buttons, Programs on Classes, Programs on Handling Scroll Bars, Programs on Lists, Programs on Handling Events by Extending AWT Components. The link below gives the list of all the categories of Programs mentioned above.
+
+7. Java Programming Examples on Exception Handling
+In this section, we have various Programs on Exception Handling. These include Programs on Built-in Exceptions, Programs on Try, Programs on Catch, Programs on Finally Blocks, Programs on Nested Try Statements, Programs on Throws, Programs on Threads, Programs on Multiple Exception Types, Programs on Checked Exception, Programs on Unchecked Exception and Programs on Bank Applications. The link below displays all the programs on Exception Handling.
+
+8. Java Programming Examples on File Handling
+The following section gives a collection of Java Programs which are categorized into various Categories like Programs on File Handling, Programs on Command Line Arguments, Programs on Passing Arguments, Programs on Byte Streams, Programs on Character Streams, Programs on ObjectOutputStream, Programs on Serialization, Programs on Deserialized, Programs on Reading and Accept Data Types from Keyboard, Programs on Files Operations like Creating, Counting & Conversion, Programs on Files Operations Replacing, Updating & Reversing the Contents of a Files, Programs on Files Modifications, Programs on Contents of a Files, Programs on Static Import and Programs on Type Casting. The following link will guide you to the various programs that belong to the above mentioned categories.
+
+9. Java Programming Examples on Inheritance
+The section below deals with various categories of Programs on Inheritance. These include Programs on Inheritance Class, Programs on Inheritance Using Super Class, Programs on Inheritance Types, Programs on Inheritance Using Abstract Classes, Programs on Inheritance Using Abstract Method, Programs on Interfaces, Programs on Multiple Interfaces, Programs on Packages and Programs on Access Modifiers. The link below guides us through the above mentioned categories.
+
+
+10. Java Programming Examples on Java.Lang
+The sections deals with programs on Java.Lang. These include Programs on clone( ) & Cloneable Interface, Programs on Heap Memory, Programs on Environment Variables, Programs on Primitive Type Wrappers, Programs on Class, Programs on Object, Programs on StringBuffer, Programs on String Comparison, Programs on String Searching, Programs on String Modifications, Programs on Memory Management, Programs on System, Programs on Methods, Programs on Interfaces, Programs on Java.lang Packages and Libraries. The link below guides us through the above mentioned categories.
+
+11. Java Programming Examples on Multithreading
+In this section, we have various Programs on Multithreading. These include Programs on Synchronization, Programs on Deadlock, Programs on Runnable Interface and its Implementation, Programs on Thread Priorities, Programs on Threads & Methods, Programs on Thread Class, Programs on Suspending, Resuming & Stopping Threads, Programs on Creating Multiple Threads, Programs on Thread Group, Programs on Running Threads, Programs on Object Class using Threads and Programs on Producer and Consumer Problems. The below link guides us through all the Category of Programs mentioned above.
+
+12. Java Programming Examples on Networking
+This section deals with programs on Networking. The various Categories are Programs on URLConnection, Programs on Networking, Programs on Datagram Socket, Programs on Command Processor, Programs on Proxy Web Server, Programs on TCP/IP Client & Server Sockets. The following link displays all these categories of Programs.
+
+13. Java Programming Examples on String Handling
+In this section, we have various Programs on String Handling. These include Programs on Strings, Programs on Special String Operations, Programs on String Comparison, Programs on String Class, Programs on Searching & Modifying Strings, Programs on Palindrome, Programs on Character Extraction, Programs on StringBuffer, Programs on Methods, Programs on Count Function Usage, Programs on Patterns Validation and Programs on Format Strings. The link below displays all the programs on String Handling.
+
+14. Java Programming Examples on Utility Classes
+The section below deals with various categories of Programs on Utility Classes. These include Programs on Maps Working, Programs on HashTable, Programs on Date & Calendar, Programs on Formatting Time and Date, Programs on TimeZone, Programs on Scanner, Programs on StringTokenizer, Programs on Arrays, Programs on Comparators, Programs on ResourceBundle, Programs on Collection Classes, Programs on Databases and Programs on Networking. The link below will guide us through all of the above mentioned Programs.
+
